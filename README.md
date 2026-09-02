@@ -1,4 +1,4 @@
-\# SecureCampus
+# SecureCampus
 
 
 
@@ -6,15 +6,13 @@ Proyecto académico de la asignatura Desarrollo Seguro.
 
 
 
-\## Propósito
+## Propósito
 
 
 
 Diseñar, construir, asegurar, probar y documentar una aplicación aplicando prácticas de Desarrollo Seguro.
 
-## \## Seguridad
+## Seguridad
 
-## 
-
-## SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
+SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
 
