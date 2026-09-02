@@ -12,10 +12,9 @@ Proyecto académico de la asignatura Desarrollo Seguro.
 
 Diseñar, construir, asegurar, probar y documentar una aplicación aplicando prácticas de Desarrollo Seguro.
 
-## Equipo
+## \## Seguridad
 
-- Integrante 1
-- Integrante 2
-- Integrante 3
-- Integrante 4
+## 
+
+## SecureCampus será desarrollado siguiendo prácticas de Secure SDLC.
 
